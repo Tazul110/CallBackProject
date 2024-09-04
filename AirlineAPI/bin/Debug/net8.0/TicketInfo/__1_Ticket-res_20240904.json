@@ -1,1 +1,23 @@
-{"TicketTime":"1716862003608","ticketInfo":null}
+{
+  "TicketTime":"1716862003608",
+  "ticketInfo":{
+    "businessOrderNo":"5238951396776",
+    "orderNo":"5238951396776",
+    "ticketPassengers":[{
+      "ageType":0,
+      "cardNum":"23xxxxxxxxxxxxxxxx",
+      "cardType":"4",
+      "encryptCardNum":"MTQwNDI2MjAwMTAzMTA2ODQ4",
+      "name":"测试001",
+      "tickets":[{
+        "segmentIndex":{
+          "flightNum":"CZ8856",
+          "segmentType":1,
+          "sequenceNum":1
+        },
+        "ticketNo":"1234567890567"
+      }],
+      "uniqueKey":0
+    }]
+  }
+}

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\models\\happyworldticketinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\models\\happyworldticketinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\services\\callbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\services\\callbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\middlewire\\ipwhitelistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\middlewire\\ipwhitelistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\ticketinfo\\__1_ticket-res_20240904.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\ticketinfo\\__1_ticket-res_20240904.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\halper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\halper\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\models\\happyworldticketinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\models\\happyworldticketinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\controllers\\callbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1566,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IpWhitelistMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Middlewire\\IpWhitelistMiddleware.cs",
+              "RelativeDocumentMoniker": "AirlineAPI\\Middlewire\\IpWhitelistMiddleware.cs",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Middlewire\\IpWhitelistMiddleware.cs",
+              "RelativeToolTip": "AirlineAPI\\Middlewire\\IpWhitelistMiddleware.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:36:39.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "__1_Ticket-res_20240904.json",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\TicketInfo\\__1_Ticket-res_20240904.json",
+              "RelativeDocumentMoniker": "AirlineAPI\\TicketInfo\\__1_Ticket-res_20240904.json",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\TicketInfo\\__1_Ticket-res_20240904.json",
+              "RelativeToolTip": "AirlineAPI\\TicketInfo\\__1_Ticket-res_20240904.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T11:08:33.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Halper\\FileHelper.cs",
+              "RelativeDocumentMoniker": "AirlineAPI\\Halper\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Halper\\FileHelper.cs",
+              "RelativeToolTip": "AirlineAPI\\Halper\\FileHelper.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAArwEkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:05:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CallbackController.cs",
               "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Controllers\\CallbackController.cs",
               "RelativeDocumentMoniker": "AirlineAPI\\Controllers\\CallbackController.cs",
@@ -54,12 +105,11 @@
               "RelativeToolTip": "AirlineAPI\\Controllers\\CallbackController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAQwBUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T11:02:22.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T11:02:22.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IpToModelTypeMapper.cs",
               "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Data\\IpToModelTypeMapper.cs",
               "RelativeDocumentMoniker": "AirlineAPI\\Data\\IpToModelTypeMapper.cs",
@@ -67,12 +117,11 @@
               "RelativeToolTip": "AirlineAPI\\Data\\IpToModelTypeMapper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T11:01:41.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T11:01:41.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "S3Service.cs",
               "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Services\\S3Service.cs",
               "RelativeDocumentMoniker": "AirlineAPI\\Services\\S3Service.cs",
@@ -84,33 +133,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CallbackService.cs",
               "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Services\\CallbackService.cs",
               "RelativeDocumentMoniker": "AirlineAPI\\Services\\CallbackService.cs",
               "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Services\\CallbackService.cs",
               "RelativeToolTip": "AirlineAPI\\Services\\CallbackService.cs",
-              "ViewState": "AQIAAF8AAAAAAAAAAADgv3MAAAARAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwFIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T05:59:57.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "HappyWorldTicketInfoDto.cs",
               "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Models\\HappyWorldTicketInfoDto.cs",
               "RelativeDocumentMoniker": "AirlineAPI\\Models\\HappyWorldTicketInfoDto.cs",
               "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Models\\HappyWorldTicketInfoDto.cs",
               "RelativeToolTip": "AirlineAPI\\Models\\HappyWorldTicketInfoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T04:30:28.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "InjectDependency.cs",
               "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\DependencyInjection\\InjectDependency.cs",
               "RelativeDocumentMoniker": "AirlineAPI\\DependencyInjection\\InjectDependency.cs",
@@ -118,12 +167,11 @@
               "RelativeToolTip": "AirlineAPI\\DependencyInjection\\InjectDependency.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T09:57:47.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T09:57:47.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ICallbackService.cs",
               "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Interfaces\\ICallbackService.cs",
               "RelativeDocumentMoniker": "AirlineAPI\\Interfaces\\ICallbackService.cs",
@@ -135,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Program.cs",
               "RelativeDocumentMoniker": "AirlineAPI\\Program.cs",
