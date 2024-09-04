@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\middlewire\\ipwhitelistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\middlewire\\ipwhitelistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\controllers\\callbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\controllers\\callbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|c:\\users\\tn-99345\\desktop\\airlines callback\\airlineapi\\airlineapi\\models\\ticketinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{438A5C78-8257-466F-A1D2-382746884B4A}|AirlineAPI\\AirlineAPI.csproj|solutionrelative:airlineapi\\models\\ticketinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1566,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IpWhitelistMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Middlewire\\IpWhitelistMiddleware.cs",
+              "RelativeDocumentMoniker": "AirlineAPI\\Middlewire\\IpWhitelistMiddleware.cs",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Middlewire\\IpWhitelistMiddleware.cs",
+              "RelativeToolTip": "AirlineAPI\\Middlewire\\IpWhitelistMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:52:25.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AirlineAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\appsettings.json",
+              "RelativeToolTip": "AirlineAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T06:51:03.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CallbackController.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Controllers\\CallbackController.cs",
+              "RelativeDocumentMoniker": "AirlineAPI\\Controllers\\CallbackController.cs",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Controllers\\CallbackController.cs",
+              "RelativeToolTip": "AirlineAPI\\Controllers\\CallbackController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:03:49.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Services\\GenericService.cs",
+              "RelativeDocumentMoniker": "AirlineAPI\\Services\\GenericService.cs",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Services\\GenericService.cs",
+              "RelativeToolTip": "AirlineAPI\\Services\\GenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:59:57.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "AirlineAPI\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "AirlineAPI\\Interfaces\\IGenericService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:59:12.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AirlineAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Program.cs",
+              "RelativeToolTip": "AirlineAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:33:01.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketInfo.cs",
+              "DocumentMoniker": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Models\\TicketInfo.cs",
+              "RelativeDocumentMoniker": "AirlineAPI\\Models\\TicketInfo.cs",
+              "ToolTip": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\Models\\TicketInfo.cs",
+              "RelativeToolTip": "AirlineAPI\\Models\\TicketInfo.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:30:28.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
