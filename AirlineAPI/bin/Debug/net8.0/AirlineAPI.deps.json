@@ -8,12 +8,32 @@
     ".NETCoreApp,Version=v8.0": {
       "AirlineAPI/1.0.0": {
         "dependencies": {
+          "AWSSDK.S3": "3.7.402.4",
           "IPNetwork2": "3.0.667",
           "Newtonsoft.Json": "13.0.3",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
           "AirlineAPI.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.400.13": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.400.13"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.402.4": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.400.13"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.402.4"
+          }
         }
       },
       "IPNetwork2/3.0.667": {
@@ -86,6 +106,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AWSSDK.Core/3.7.400.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hEW5F8dMLyVRJ+LrTJVwpaOSVIsfG0Yvo2IMTDB9gxbDRzHv/iu/fzUhwNLlLuV+vel6Z3yq3AGaTFbA0Khj5w==",
+      "path": "awssdk.core/3.7.400.13",
+      "hashPath": "awssdk.core.3.7.400.13.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.402.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wrTfbwI5At7imjk1T81Ooto1K9XfCYaazmop6hETa0mkI14eyJH0yiCeYYyDSfDgUDSmg1cNY8668OKABQFB7w==",
+      "path": "awssdk.s3/3.7.402.4",
+      "hashPath": "awssdk.s3.3.7.402.4.nupkg.sha512"
     },
     "IPNetwork2/3.0.667": {
       "type": "package",

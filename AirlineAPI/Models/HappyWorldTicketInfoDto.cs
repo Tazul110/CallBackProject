@@ -9,7 +9,7 @@ using Newtonsoft.Json.Converters;
 
 namespace AirlineAPI.Models
 {
-    public partial class TicketInfoDto
+    public partial class HappyWorldTicketInfoDto
     {
         [JsonProperty("TicketTime")]
         public string TicketTime { get; set; }

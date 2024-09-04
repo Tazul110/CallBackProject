@@ -32,3 +32,7 @@ C:\Users\TN-99345\Desktop\airlines callback\AirlineAPI\AirlineAPI\obj\Debug\net8
 C:\Users\TN-99345\Desktop\airlines callback\AirlineAPI\AirlineAPI\obj\Debug\net8.0\ref\AirlineAPI.dll
 C:\Users\TN-99345\Desktop\airlines callback\AirlineAPI\AirlineAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\TN-99345\Desktop\airlines callback\AirlineAPI\AirlineAPI\bin\Debug\net8.0\System.Net.IPNetwork.dll
+C:\Users\TN-99345\Desktop\airlines callback\AirlineAPI\AirlineAPI\obj\Debug\net8.0\AirlineAPI.sourcelink.json
+C:\Users\TN-99345\Desktop\airlines callback\AirlineAPI\AirlineAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\TN-99345\Desktop\airlines callback\AirlineAPI\AirlineAPI\bin\Debug\net8.0\AWSSDK.S3.dll
+C:\Users\TN-99345\Desktop\airlines callback\AirlineAPI\AirlineAPI\bin\Debug\net8.0\TicketInfo\__1_Ticket-res_20240904.json

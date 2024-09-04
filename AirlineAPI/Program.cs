@@ -1,3 +1,5 @@
+using AirlineAPI.Data;
+using AirlineAPI.DependencyInjection;
 using AirlineAPI.Interfaces;
 using AirlineAPI.Middlewire;
 using AirlineAPI.Services;
@@ -10,7 +12,21 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<IGenericService, GenericService>();
+
+#region Settings
+var s3Settings = new AwsS3Settings();
+builder.Configuration.Bind("awsS3", s3Settings);
+builder.Services.AddSingleton(s3Settings);
+
+
+/*var appSetting = new AppSettings();
+builder.Configuration.Bind("AppSettings", appSetting);
+builder.Services.AddSingleton(appSetting);*/
+#endregion Settings
+
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<ICallbackService, CallbackService>();
+builder.Services.AddDependencyInjection();
 
 var app = builder.Build();
 

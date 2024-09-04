@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "EBjFcB3PusA=",
+  "dgSpecHash": "FoP0I9QGR5k=",
   "success": true,
   "projectFilePath": "C:\\Users\\TN-99345\\Desktop\\airlines callback\\AirlineAPI\\AirlineAPI\\AirlineAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\TN-99345\\.nuget\\packages\\awssdk.core\\3.7.400.13\\awssdk.core.3.7.400.13.nupkg.sha512",
+    "C:\\Users\\TN-99345\\.nuget\\packages\\awssdk.s3\\3.7.402.4\\awssdk.s3.3.7.402.4.nupkg.sha512",
     "C:\\Users\\TN-99345\\.nuget\\packages\\ipnetwork2\\3.0.667\\ipnetwork2.3.0.667.nupkg.sha512",
     "C:\\Users\\TN-99345\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\TN-99345\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
